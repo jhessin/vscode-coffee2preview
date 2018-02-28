@@ -2,6 +2,9 @@
   "name": "coffee2preview",
   "displayName": "Coffee2Preview",
   "description": "Preview CoffeeScript files compiled into javascript using the latest CoffeeScript.",
+  "repository": {
+    "url": "https://github.com/jhessin/vscode-coffee2preview.git"
+  },
   "version": "0.0.1",
   "publisher": "jhessin",
   "engines": {

@@ -5,7 +5,7 @@ data = [
   'row two'
 ]
 export class MyView
-  view:->
+  view: ->
     m 'div',
       m 'table',
         for value in data

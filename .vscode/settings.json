@@ -1,6 +1,6 @@
 {
   "files.exclude": {
-    "__error": "Not found",
+    "__error": true,
     "node_modules": true
   }
 }
