@@ -1,5 +1,7 @@
 # coffee2preview
 
+# NOTICE: This repo is archived. No longer maintained. Feel free to use/create a fork if you are interested.
+
 ## An extension for Visual Studio Code™️
 
 This is an extension for developing coffeescript allowing you to preview the compiled javascript in a syntax highlighted side panel.
